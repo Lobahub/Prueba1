@@ -1,0 +1,16 @@
+C:\Users\Loba\Projects\git\prueba1\bin\Debug\net5.0\prueba1.exe
+C:\Users\Loba\Projects\git\prueba1\bin\Debug\net5.0\prueba1.deps.json
+C:\Users\Loba\Projects\git\prueba1\bin\Debug\net5.0\prueba1.runtimeconfig.json
+C:\Users\Loba\Projects\git\prueba1\bin\Debug\net5.0\prueba1.runtimeconfig.dev.json
+C:\Users\Loba\Projects\git\prueba1\bin\Debug\net5.0\prueba1.dll
+C:\Users\Loba\Projects\git\prueba1\bin\Debug\net5.0\ref\prueba1.dll
+C:\Users\Loba\Projects\git\prueba1\bin\Debug\net5.0\prueba1.pdb
+C:\Users\Loba\Projects\git\prueba1\obj\Debug\net5.0\prueba1.csproj.AssemblyReference.cache
+C:\Users\Loba\Projects\git\prueba1\obj\Debug\net5.0\prueba1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Loba\Projects\git\prueba1\obj\Debug\net5.0\prueba1.AssemblyInfoInputs.cache
+C:\Users\Loba\Projects\git\prueba1\obj\Debug\net5.0\prueba1.AssemblyInfo.cs
+C:\Users\Loba\Projects\git\prueba1\obj\Debug\net5.0\prueba1.csproj.CoreCompileInputs.cache
+C:\Users\Loba\Projects\git\prueba1\obj\Debug\net5.0\prueba1.dll
+C:\Users\Loba\Projects\git\prueba1\obj\Debug\net5.0\ref\prueba1.dll
+C:\Users\Loba\Projects\git\prueba1\obj\Debug\net5.0\prueba1.pdb
+C:\Users\Loba\Projects\git\prueba1\obj\Debug\net5.0\prueba1.genruntimeconfig.cache
